@@ -1,5 +1,15 @@
 # track-contest
 multi-contest question tracking prototype
+
+idea: 
+> contest :
+>   year / paper :
+>     topic :
+>       question :
+> Associated explanations
+
+-> Enable full contest indexing, tracking and centralisation into one platform.
+
 ```Text
 > British Informatics Olympiad - 
   1995 96 97 98 99
